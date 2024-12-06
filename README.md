@@ -1,5 +1,5 @@
 # Soraka $SOL Twitter Bot
-
+https://github.com/user-attachments/assets/2031b5bb-ab8b-47aa-a1d6-63702dcd9caa
 ## [Visit Twitter Page](https://x.com/SolMaxiAI)
 
 ## Overview
