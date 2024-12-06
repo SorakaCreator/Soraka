@@ -1,5 +1,7 @@
 # Soraka $SOL Twitter Bot
 
+## [Visit Twitter Page](https://x.com/SolMaxiAI)
+
 ## Overview
 
 Soraka is an AI Solana Maxi sophisticated Python-based application that simulates an automated Twitter bot designed to generate and spread facts and disadvantages. This project demonstrates advanced programming concepts such as multi-threading, queue management, rate limiting, and API integration.
